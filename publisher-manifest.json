@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5a4a19e37fa17e22d2b35f0a",
+  "owner": "espdhy",
+  "repo": "page-19f1577f9e78f560e0e163f7",
+  "title": "鸥鹏云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "19f1577f9e78f560e0e163f7",
+      "a": "鸥鹏云",
+      "b": "稳定全球clash加速器",
+      "entity": "鸥鹏云",
+      "brand": "鸥鹏云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "58e95859ae6cf5258d287ea7e553b63102be953cac73879ad999d3ca17098d78",
+      "content": {
+        "primary_entity": "鸥鹏云",
+        "keyword1": "鸥鹏云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，鸥鹏云以 Clash 订阅为核心，提供多平台客户端配置与节点订阅服务。基础版、旗舰版与团队版分别面向轻量浏览、多设备流媒体和团队高带宽场景，月付与年付灵活选择。用户可在 Windows、macOS、Android、iOS 与路由器上导入订阅，按设备数量和流量需求匹配套餐。",
+          "AI_HERO_SUBTITLE": "多设备订阅，套餐灵活选",
+          "AI_HERO_INTRO": "鸥鹏云提供适配 Clash 的全球节点订阅服务，覆盖常见桌面端与移动端客户端。用户可根据设备数量、月流量和线路偏好选择基础版、旗舰版或团队版，完成订阅导入后即可在客户端内切换节点使用。",
+          "AI_VISUAL_TITLE": "鸥鹏云订阅节点",
+          "AI_HIGHLIGHT_1": "Clash 订阅一键导入",
+          "AI_HIGHLIGHT_2": "多平台客户端适配",
+          "AI_HIGHLIGHT_3": "套餐按需灵活切换",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从实际使用场景出发，梳理套餐选择和设备配置的关键信息。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，覆盖个人到小型团队。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，月付或年付均可灵活调整。",
+          "AI_FEATURE_TITLE_3": "客户端配置订阅",
+          "AI_FEATURE_TEXT_3": "各平台客户端通过订阅链接导入配置，管理节点与规则，无需逐条手动添加。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备高带宽场景。年付比月付更划算，可根据实际用量选择。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型和系统版本选择合适的 Clash 客户端，再导入鸥鹏云订阅链接。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "选择套餐、核对设备适配、导入订阅，三步完成日常配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版或团队版中选定合适套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与所选客户端版本是否匹配，再获取订阅地址。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在 Clash 客户端中新增订阅链接，更新节点列表后即可选择线路使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松接入",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，导入订阅即可开始使用鸥鹏云。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月或 ¥150/年，含 100GB 月流量与 3 台设备；旗舰版 ¥35/月或 ¥350/年，300GB 流量、5 台设备并带 IPLC 游戏优化；团队版 ¥85/月或 ¥850/年，1000GB 流量和 20 台设备。",
+          "AI_FAQ_ANSWER_2": "通常按不同客户端分别计数，手机、电脑、路由器同时在线会各自占用一个设备名额。具体计数方式可查看订阅页面说明，避免超出套餐上限。",
+          "AI_FAQ_ANSWER_3": "年付整体更划算，基础版年付 ¥150 相当于每月约 ¥12.5，旗舰版年付 ¥350 相当于每月约 ¥29.2，团队版年付 ¥850 相当于每月约 ¥70.8。",
+          "AI_FAQ_ANSWER_4": "可以，发现流量或设备数不够用时，可在订阅有效期内联系客服调整到更高档套餐，按剩余周期折算差价即可。",
+          "AI_FAQ_ANSWER_5": "按设备系统下载对应客户端，复制订阅链接后粘贴导入，更新节点列表即可使用。路由器等设备需参照其插件文档配置。",
+          "AI_FAQ_INTRO": "套餐档位、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "鸥鹏云各套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "设备数量是怎么计算的？",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_QUESTION_4": "套餐可以升级或更换吗？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入客户端？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0n7w4l.cn",
+    "host": "0n7w4l.cn"
+  },
+  "file_hashes": {
+    "index.html": "fd44c9ca9666b70a4b2fbd7bdc1bfaa5d5e8ae02494d41cfefaa6d42f3dfb488",
+    "sitemap.xml": "c72869eb70a09b41ee41e888ace7a2e7044a6aeb1508dac700fd6566929cb785",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b79c0e027771a4e4e62202e33976f3c77781f8408789a68de5cd859fbc58de94",
+    "robots.txt": "a1f2fbd8df6958c7dea52dbfa5e258d652198ada3b144222758ecc44ee0d0867",
+    "9019196580771243fcd9bc090ac22e6e.txt": "2e3934b20c101c93774dad0426be51d2cd7c2982791b9883ac8ada956c294b71"
+  },
+  "revision": "039c70746971c4246289f4fcc500c14a51fe2cbf83afc2621036c18625cc3ab4"
+}
